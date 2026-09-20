@@ -11,8 +11,8 @@
   "lowresSliderMax": 7000,
   "lowresSliderDefault": 2000,
   "lowresSliderMin": 500,
-  "mapDataRoot": "https://raw.githubusercontent.com/koxmici/bluemap/renders",
-  "liveDataRoot": "https://raw.githubusercontent.com/koxmici/bluemap/renders",
+  "mapDataRoot": "https://raw.githubusercontent.com/koxmici/bluemap-before-client-decompression/renders",
+  "liveDataRoot": "https://raw.githubusercontent.com/koxmici/bluemap-before-client-decompression/renders",
   "maps": ["koxmici3", "koxmici4", "koxmici6", "koxmici7", "koxmici8", "koxmici51", "koxmici50"],
   "scripts": [],
   "styles": []
